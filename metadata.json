@@ -1,0 +1,6 @@
+{
+  "name": "Phòng Thí Nghiệm Hóa Học Ảo 2D",
+  "description": "Phòng thí nghiệm hóa học ảo 2D đa năng với đồ họa 2.5D chân thực, động cơ tương tác vật lý, phản ứng hóa học real-time và Trợ lý AI Anh Mã.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
