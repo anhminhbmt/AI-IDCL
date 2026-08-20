@@ -2,11 +2,16 @@
   "name": "lab-safety-simulator",
   "version": "1.0.0",
   "scripts": {
-    "dev": "serve . -p 3000",
+    "dev": "serve -l tcp://0.0.0.0:3000 .",
     "build": "echo 'No build needed. Single HTML file.'",
-    "start": "serve . -p 3000"
+    "start": "serve -l tcp://0.0.0.0:3000 ."
   },
   "dependencies": {
+    "@firebase/ai": "^2.15.0",
+    "firebase": "^12.18.0",
     "serve": "^14.2.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.12"
   }
 }
