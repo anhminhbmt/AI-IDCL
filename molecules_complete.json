@@ -1,0 +1,7583 @@
+[
+  {
+    "id": "methane",
+    "name": "Methane (Metan)",
+    "iupac": "Methane",
+    "formula": "CH4",
+    "condensed": "CH4",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 16.04,
+    "geometry": "Tứ diện đều (Tetrahedral, góc H-C-H = 109.5°)",
+    "hybridization": "sp³",
+    "state": "Khí không màu, không mùi, nhẹ hơn không khí (d ≈ 0.55)",
+    "boilingPoint": "-161.5 °C",
+    "meltingPoint": "-182.5 °C",
+    "solubility": "Kém tan trong nước, tan tốt trong dung môi hữu cơ (benzen, ete)",
+    "reactions": "1) Thế clo: CH₄ + Cl₂ →(as) CH₃Cl + HCl\n2) Phản ứng cháy: CH₄ + 2O₂ → CO₂ + 2H₂O\n3) Nhiệt phân 1500°C: 2CH₄ → C₂H₂ + 3H₂",
+    "applications": "Nhiên liệu khí thiên nhiên (CNG), khí Biogas, nguyên liệu tổng hợp khí than, methanol và phân đạm Urê.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -4
+      },
+      {
+        "element": "H",
+        "x": 0.63,
+        "y": 0.63,
+        "z": 0.63,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.63,
+        "y": -0.63,
+        "z": 0.63,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.63,
+        "y": 0.63,
+        "z": -0.63,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.63,
+        "y": -0.63,
+        "z": -0.63,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "ethane",
+    "name": "Ethane (Etan)",
+    "iupac": "Ethane",
+    "formula": "C2H6",
+    "condensed": "CH3-CH3",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 30.07,
+    "geometry": "Mạch C cacbon ziczac, lai hóa tứ diện sp³ quanh mỗi nguyên tử C",
+    "hybridization": "sp³ (Tất cả liên kết C-C và C-H là liên kết đơn σ bền vững)",
+    "state": "Khí không màu, dễ cháy",
+    "boilingPoint": "-88.6 °C",
+    "meltingPoint": "-182.8 °C",
+    "solubility": "Không tan trong nước",
+    "reactions": "Thế halogen: C₂H₆ + Cl₂ → C₂H₅Cl + HCl\nĐề hidro hóa thành Ethylene",
+    "applications": "Nhiệt phân công nghiệp sản xuất Ethylene.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.629,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": 0.629,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -0.629,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.629,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.519,
+        "y": 1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.629,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.629,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.519,
+        "y": -1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 7,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "propane",
+    "name": "Propane (Propan)",
+    "iupac": "Propane",
+    "formula": "C3H8",
+    "condensed": "CH3-CH2-CH3",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 44.1,
+    "geometry": "Mạch C cacbon ziczac, lai hóa tứ diện sp³ quanh mỗi nguyên tử C",
+    "hybridization": "sp³ (Tất cả liên kết C-C và C-H là liên kết đơn σ bền vững)",
+    "state": "Khí không màu, dễ hóa lỏng",
+    "boilingPoint": "-42.1 °C",
+    "meltingPoint": "-187.7 °C",
+    "solubility": "Không tan trong nước",
+    "reactions": "Cháy tỏa nhiệt lớn: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O",
+    "applications": "Khí gas đun nấu LPG, nhiên liệu động cơ.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -1.258,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 1.258,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -1.258,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.258,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.148,
+        "y": 1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.258,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.258,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.148,
+        "y": 1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 10,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "butane",
+    "name": "Butane (Butan)",
+    "iupac": "Butane",
+    "formula": "C4H10",
+    "condensed": "CH3-CH2-CH2-CH3",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 58.12,
+    "geometry": "Mạch C cacbon ziczac, lai hóa tứ diện sp³ quanh mỗi nguyên tử C",
+    "hybridization": "sp³ (Tất cả liên kết C-C và C-H là liên kết đơn σ bền vững)",
+    "state": "Khí không màu, dễ nén hóa lỏng",
+    "boilingPoint": "-0.5 °C",
+    "meltingPoint": "-138.4 °C",
+    "solubility": "Không tan trong nước",
+    "reactions": "Cracking tạo ra C₂H₄ + C₂H₆ hoặc CH₄ + C₃H₆",
+    "applications": "Nạp trong bật lửa gas, bình gas mini du lịch.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -1.886,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": -0.629,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 0.629,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 1.886,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -1.886,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.886,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.776,
+        "y": 1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.629,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.629,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.629,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.629,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.886,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.886,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.776,
+        "y": -1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 13,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "pentane",
+    "name": "Pentane (Pentan)",
+    "iupac": "Pentane",
+    "formula": "C5H12",
+    "condensed": "CH3-(CH2)3-CH3",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 72.15,
+    "geometry": "Mạch C cacbon ziczac, lai hóa tứ diện sp³ quanh mỗi nguyên tử C",
+    "hybridization": "sp³ (Tất cả liên kết C-C và C-H là liên kết đơn σ bền vững)",
+    "state": "Chất lỏng không màu, bay hơi nhanh",
+    "boilingPoint": "36.1 °C",
+    "meltingPoint": "-129.8 °C",
+    "solubility": "Kém tan trong nước, tan trong este",
+    "reactions": "Oxy hóa, cracking và reforming xúc tác",
+    "applications": "Dung môi trong phòng thí nghiệm, sản xuất bọt xốp EPS.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -2.515,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": -1.258,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 1.258,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 2.515,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -2.515,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.515,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -3.405,
+        "y": 1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.258,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.258,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.258,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.258,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.515,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.515,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 3.405,
+        "y": 1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 13,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 14,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 15,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 16,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "hexane",
+    "name": "Hexane (Hexan)",
+    "iupac": "Hexane",
+    "formula": "C6H14",
+    "condensed": "CH3-(CH2)4-CH3",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 86.18,
+    "geometry": "Mạch C cacbon ziczac, lai hóa tứ diện sp³ quanh mỗi nguyên tử C",
+    "hybridization": "sp³ (Tất cả liên kết C-C và C-H là liên kết đơn σ bền vững)",
+    "state": "Chất lỏng không màu, mùi xăng nhẹ",
+    "boilingPoint": "68.7 °C",
+    "meltingPoint": "-95.3 °C",
+    "solubility": "Tan trong dung môi hữu cơ",
+    "reactions": "Đề hidro đóng vòng thành benzen (reforming)",
+    "applications": "Dung môi trích ly dầu thực vật (dầu đậu nành), dung môi keo dán.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -3.144,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": -1.886,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": -0.629,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 0.629,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 1.886,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 3.144,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -3.144,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -3.144,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -4.034,
+        "y": 1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.886,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.886,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.629,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.629,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.629,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.629,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.886,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.886,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 3.144,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 3.144,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 4.034,
+        "y": -1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 13,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 14,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 15,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 16,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 17,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 18,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 19,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "octane",
+    "name": "Octane (Octan)",
+    "iupac": "Octane",
+    "formula": "C8H18",
+    "condensed": "CH3-(CH2)6-CH3",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 114.23,
+    "geometry": "Mạch C cacbon ziczac, lai hóa tứ diện sp³ quanh mỗi nguyên tử C",
+    "hybridization": "sp³ (Tất cả liên kết C-C và C-H là liên kết đơn σ bền vững)",
+    "state": "Chất lỏng không màu trong suốt",
+    "boilingPoint": "125.6 °C",
+    "meltingPoint": "-56.8 °C",
+    "solubility": "Không tan trong nước",
+    "reactions": "Cháy sinh công cơ học: 2C₈H₁₈ + 25O₂ → 16CO₂ + 18H₂O",
+    "applications": "Chuẩn đo lường chỉ số Octane chống kích nổ của xăng dầu.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -4.402,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": -3.144,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": -1.886,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": -0.629,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 0.629,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 1.886,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 3.144,
+        "y": 0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 4.402,
+        "y": -0.444,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -4.402,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -4.402,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -5.292,
+        "y": 1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -3.144,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -3.144,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.886,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.886,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.629,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.629,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.629,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.629,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.886,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.886,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 3.144,
+        "y": -0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 3.144,
+        "y": -0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 4.402,
+        "y": 0.185,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 4.402,
+        "y": 0.185,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 5.292,
+        "y": -1.073,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 13,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 14,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 15,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 16,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 17,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 18,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 19,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 20,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 21,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 22,
+        "order": 1
+      },
+      {
+        "a1": 7,
+        "a2": 23,
+        "order": 1
+      },
+      {
+        "a1": 7,
+        "a2": 24,
+        "order": 1
+      },
+      {
+        "a1": 7,
+        "a2": 25,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "isobutane",
+    "name": "Isobutane (2-Metylpropan)",
+    "iupac": "2-Methylpropane",
+    "formula": "C4H10",
+    "condensed": "CH(CH3)3",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 58.12,
+    "geometry": "C trung tâm liên kết với 3 nhóm CH3 dạng chân vạc",
+    "hybridization": "sp³",
+    "state": "Khí không màu, dễ hóa lỏng",
+    "boilingPoint": "-11.7 °C",
+    "meltingPoint": "-159.6 °C",
+    "solubility": "Không tan trong nước",
+    "reactions": "Thế clo ưu tiên vị trí C bậc 3 tạo 2-chloro-2-methylpropane với hiệu suất vượt trội.",
+    "applications": "Khí gas lạnh thân thiện môi trường R-600a thay thế CFC trong tủ lạnh hiện đại.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.2,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 1.45,
+        "z": -0.3,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": -1.26,
+        "y": -0.73,
+        "z": -0.3,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": 1.26,
+        "y": -0.73,
+        "z": -0.3,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.28,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": 2.25,
+        "z": 0.44,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.89,
+        "y": 1.55,
+        "z": -0.92,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.89,
+        "y": 1.55,
+        "z": -0.92,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.15,
+        "y": -0.73,
+        "z": 0.33,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.34,
+        "y": -0.15,
+        "z": -1.22,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.08,
+        "y": -1.76,
+        "z": -0.61,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.15,
+        "y": -0.73,
+        "z": 0.33,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.08,
+        "y": -1.76,
+        "z": -0.61,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.34,
+        "y": -0.15,
+        "z": -1.22,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 13,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "neopentane",
+    "name": "Neopentane (2,2-Dimetylpropan)",
+    "iupac": "2,2-Dimethylpropane",
+    "formula": "C5H12",
+    "condensed": "C(CH3)4",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 72.15,
+    "geometry": "Đối xứng cầu hoàn hảo, C bậc 4 ở trung tâm nối 4 nhóm metyl tứ diện",
+    "hybridization": "sp³",
+    "state": "Khí/Chất lỏng dễ bay hơi, điểm sôi thấp nhất trong các đồng phân C5",
+    "boilingPoint": "9.5 °C",
+    "meltingPoint": "-16.6 °C",
+    "solubility": "Không tan trong nước",
+    "reactions": "Chỉ có 1 vị trí phản ứng thế duy nhất (12 nguyên tử H hoàn toàn tương đương).",
+    "applications": "Nhiên liệu tiêu chuẩn, tổng hợp hữu cơ đặc biệt.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": 0
+      },
+      {
+        "element": "C",
+        "x": 0.89,
+        "y": 0.89,
+        "z": 0.89,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": -0.89,
+        "y": -0.89,
+        "z": 0.89,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": -0.89,
+        "y": 0.89,
+        "z": -0.89,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": 0.89,
+        "y": -0.89,
+        "z": -0.89,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": 1.45,
+        "y": 1.45,
+        "z": 0.16,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.58,
+        "y": 0.28,
+        "z": 1.48,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.28,
+        "y": 1.58,
+        "z": 1.48,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.45,
+        "y": -1.45,
+        "z": 0.16,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.58,
+        "y": -0.28,
+        "z": 1.48,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.28,
+        "y": -1.58,
+        "z": 1.48,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.45,
+        "y": 1.45,
+        "z": -0.16,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.58,
+        "y": 0.28,
+        "z": -1.48,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.28,
+        "y": 1.58,
+        "z": -1.48,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.45,
+        "y": -1.45,
+        "z": -0.16,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.58,
+        "y": -0.28,
+        "z": -1.48,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.28,
+        "y": -1.58,
+        "z": -1.48,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 13,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 14,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 15,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 16,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "cyclopropane",
+    "name": "Cyclopropane (Xiclopropan)",
+    "iupac": "Cyclopropane",
+    "formula": "C3H6",
+    "condensed": "c-C3H6",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 42.08,
+    "geometry": "Tam giác đều phẳng, góc C-C-C = 60° (sức căng vòng Bayer cực lớn, liên kết quả chuối banana bond)",
+    "hybridization": "sp³ bị biến dạng",
+    "state": "Khí không màu, mùi ete ngọt",
+    "boilingPoint": "-32.8 °C",
+    "meltingPoint": "-127.6 °C",
+    "solubility": "Kém tan trong nước",
+    "reactions": "Dễ dàng tham gia phản ứng CỘNG MỞ VÒNG với H₂ (Ni, 80°C) và Br₂ (làm mất màu dd brom):\nc-C₃H₆ + Br₂ → Br-CH₂-CH₂-CH₂-Br",
+    "applications": "Từng dùng làm thuốc mê hít phẫu thuật, chất trung gian tổng hợp dược chất.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.87,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": -0.75,
+        "y": -0.43,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 0.75,
+        "y": -0.43,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": 1.45,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": 1.45,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.26,
+        "y": -0.72,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.26,
+        "y": -0.72,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.26,
+        "y": -0.72,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.26,
+        "y": -0.72,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 8,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "cyclohexane",
+    "name": "Cyclohexane - Cấu dạng Ghế (Xiclohexan)",
+    "iupac": "Cyclohexane",
+    "formula": "C6H12",
+    "condensed": "c-C6H12",
+    "group": "1. Hydrocarbon no (Alkane & Xicloankan)",
+    "groupId": "alkane",
+    "molarMass": 84.16,
+    "geometry": "Cấu dạng ghế (Chair conformation) bền nhất, góc liên kết chuẩn 109.5° hoàn toàn không có sức căng vòng",
+    "hybridization": "sp³",
+    "state": "Chất lỏng không màu, mùi giống xăng nhẹ",
+    "boilingPoint": "80.7 °C",
+    "meltingPoint": "6.5 °C",
+    "solubility": "Không tan trong nước, tan vô hạn trong ete, cloroform",
+    "reactions": "1) Phản ứng thế halogen (chiếu sáng): C₆H₁₂ + Cl₂ → C₆H₁₁Cl + HCl\n2) Đề hiđro hóa thành benzen: C₆H₁₂ →(Pt, t°) C₆H₆ + 3H₂",
+    "applications": "Dung môi không phân cực quan trọng; nguyên liệu oxy hóa sản xuất axit adipic và caprolactam (sản xuất tơ nilon-6,6 và nilon-6).",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 1.26,
+        "y": 0.73,
+        "z": 0.25,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 1.45,
+        "z": -0.25,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": -1.26,
+        "y": 0.73,
+        "z": 0.25,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": -1.26,
+        "y": -0.73,
+        "z": -0.25,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": -1.45,
+        "z": 0.25,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 1.26,
+        "y": -0.73,
+        "z": -0.25,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 1.28,
+        "y": 0.74,
+        "z": 1.33,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.16,
+        "y": 1.25,
+        "z": -0.12,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": 1.48,
+        "z": -1.33,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": 2.49,
+        "z": 0.12,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.28,
+        "y": 0.74,
+        "z": 1.33,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.16,
+        "y": 1.25,
+        "z": -0.12,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.28,
+        "y": -0.74,
+        "z": -1.33,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.16,
+        "y": -1.25,
+        "z": 0.12,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": -1.48,
+        "z": 1.33,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": -2.49,
+        "z": -0.12,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.28,
+        "y": -0.74,
+        "z": -1.33,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.16,
+        "y": -1.25,
+        "z": 0.12,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 13,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 14,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 15,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 16,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 17,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "ethene",
+    "name": "Ethylene (Eten)",
+    "iupac": "Ethene",
+    "formula": "C2H4",
+    "condensed": "CH2=CH2",
+    "group": "2. Hydrocarbon không no (Alkene, Alkyne, Diene)",
+    "groupId": "alkene_alkyne",
+    "molarMass": 28.05,
+    "geometry": "Phẳng tam giác đều (Planar, tất cả 6 nguyên tử cùng nằm trên 1 mặt phẳng, góc H-C-H ≈ 117°, C=C-H ≈ 121.5°)",
+    "hybridization": "sp² (1 liên kết σ C-C và 1 liên kết π tạo bởi sự xen phủ bên của 2 obitan 2p)",
+    "state": "Khí không màu, mùi ngọt nhẹ",
+    "boilingPoint": "-103.7 °C",
+    "meltingPoint": "-169.2 °C",
+    "solubility": "Ít tan trong nước, tan trong ete, rượu",
+    "reactions": "1) Cộng Halogen: CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br (Làm mất màu dung dịch Brom nâu đỏ)\n2) Trùng hợp: n CH₂=CH₂ → (-CH₂-CH₂-)n (Nhựa PE)\n3) Oxy hóa bởi thuốc tím: 3C₂H₄ + 2KMnO₄ + 4H₂O → 3C₂H₄(OH)₂ + 2MnO₂↓ + 2KOH (Làm mất màu tím thuốc tím và tạo kết tủa đen MnO₂)\n4) Hydrat hóa: CH₂=CH₂ + H₂O →(H⁺, t°) C₂H₅OH",
+    "applications": "Monomer quan trọng số 1 ngành công nghiệp hóa chất thế giới (sản xuất nhựa PE, PVC, PS); hormone thực vật kích thích hoa quả chín đều.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.67,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 0.67,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": 0.93,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": -0.93,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": 0.93,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": -0.93,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 5,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "propene",
+    "name": "Propylene (Propen)",
+    "iupac": "Propene",
+    "formula": "C3H6",
+    "condensed": "CH2=CH-CH3",
+    "group": "2. Hydrocarbon không no (Alkene, Alkyne, Diene)",
+    "groupId": "alkene_alkyne",
+    "molarMass": 42.08,
+    "geometry": "Mặt phẳng sp² tại C=C kết hợp nhóm metyl tứ diện sp³",
+    "hybridization": "sp² và sp³",
+    "state": "Khí không màu, dễ cháy",
+    "boilingPoint": "-47.6 °C",
+    "meltingPoint": "-185.2 °C",
+    "solubility": "Không tan trong nước",
+    "reactions": "1) Cộng HX theo quy tắc Markovnikov: CH₂=CH-CH₃ + HBr → CH₃-CHBr-CH₃ (Sản phẩm chính 2-bromopropane)\n2) Trùng hợp thành nhựa Polypropylene (PP)",
+    "applications": "Sản xuất nhựa PP (hộp bảo quản thực phẩm, linh kiện ô tô, sợi dệt y tế), acrylonitrile và oxit propylen.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.62,
+        "y": 0.35,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 0.58,
+        "y": -0.15,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 1.83,
+        "y": 0.69,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -1.52,
+        "y": -0.25,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.73,
+        "y": 1.43,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.68,
+        "y": -1.23,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.72,
+        "y": 0.06,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.84,
+        "y": 1.34,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.84,
+        "y": 1.34,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 8,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "buta_1_3_diene",
+    "name": "Buta-1,3-diene (Divinyl)",
+    "iupac": "Buta-1,3-diene",
+    "formula": "C4H6",
+    "condensed": "CH2=CH-CH=CH2",
+    "group": "2. Hydrocarbon không no (Alkene, Alkyne, Diene)",
+    "groupId": "alkene_alkyne",
+    "molarMass": 54.09,
+    "geometry": "Mặt phẳng liên hợp s-trans liên tục, 4 orbital p xen phủ liên tục tạo hệ π giải tỏa",
+    "hybridization": "sp² (tất cả 4 C)",
+    "state": "Khí không màu, mùi thơm nhẹ",
+    "boilingPoint": "-4.4 °C",
+    "meltingPoint": "-108.9 °C",
+    "solubility": "Kém tan trong nước",
+    "reactions": "1) Trùng hợp Buna: n CH₂=CH-CH=CH₂ → (-CH₂-CH=CH-CH₂-)n (Cao su Buna)\n2) Cộng Br₂ theo tỉ lệ 1:2 hoặc 1:4 tùy nhiệt độ (-80°C cộng 1,2; 40°C cộng 1,4)",
+    "applications": "Sản xuất cao su tổng hợp Buna, cao su Buna-S, cao su Buna-N chế tạo lốp xe và gioăng cao su chịu dầu.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -1.85,
+        "y": -0.45,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": -0.65,
+        "y": 0.15,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.65,
+        "y": -0.45,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 1.85,
+        "y": 0.15,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": -2.75,
+        "y": 0.15,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.95,
+        "y": -1.53,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.55,
+        "y": 1.23,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.55,
+        "y": -1.53,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.95,
+        "y": 1.23,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.75,
+        "y": -0.45,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 9,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "ethyne",
+    "name": "Acetylene (Axetilen)",
+    "iupac": "Ethyne",
+    "formula": "C2H2",
+    "condensed": "CH≡CH",
+    "group": "2. Hydrocarbon không no (Alkene, Alkyne, Diene)",
+    "groupId": "alkene_alkyne",
+    "molarMass": 26.04,
+    "geometry": "Đường thẳng (Linear, góc C≡C-C = 180°)",
+    "hybridization": "sp (1 liên kết σ và 2 liên kết π vuông góc)",
+    "state": "Khí không màu, cháy với ngọn lửa rất sáng và nhiệt độ cao",
+    "boilingPoint": "-84.0 °C",
+    "meltingPoint": "-80.8 °C",
+    "solubility": "Kém tan trong nước, tan tốt trong axeton",
+    "reactions": "1) Thế ion kim loại Ag⁺: CH≡CH + 2AgNO₃ + 2NH₃ → Ag-C≡C-Ag↓ (Kết tủa vàng nhạt)\n2) Cộng Brom: CH≡CH + 2Br₂ → CHBr₂-CHBr₂ (Làm mất màu nước brom)\n3) Đime hóa tạo vinylaxetilen; Trime hóa tạo Benzen ở 600°C than hoạt tính.",
+    "applications": "Đèn xì hàn cắt kim loại oxi-axetilen (nhiệt độ ngọn lửa đạt đến 3000°C), nguyên liệu tổng hợp PVC, polyacetylene dẫn điện.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.6,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.6,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "H",
+        "x": -1.66,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.66,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 3
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 3,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "propyne",
+    "name": "Propyne (Metylaxetilen)",
+    "iupac": "Propyne",
+    "formula": "C3H4",
+    "condensed": "CH≡C-CH3",
+    "group": "2. Hydrocarbon không no (Alkene, Alkyne, Diene)",
+    "groupId": "alkene_alkyne",
+    "molarMass": 40.06,
+    "geometry": "Đường thẳng (Linear, góc C≡C-C = 180°)",
+    "hybridization": "sp (1 liên kết σ và 2 liên kết π vuông góc)",
+    "state": "Khí không màu, dễ cháy",
+    "boilingPoint": "-23.2 °C",
+    "meltingPoint": "-102.7 °C",
+    "solubility": "Không tan trong nước",
+    "reactions": "Tác dụng với dung dịch AgNO₃/NH₃ tạo kết tủa vàng nhạt CAg≡C-CH₃.",
+    "applications": "Nhiên liệu khí hàn MAPP cắt kim loại công nghiệp.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.6,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.6,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "H",
+        "x": -1.66,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "C",
+        "x": 2.06,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": 2.45,
+        "y": 1.02,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.45,
+        "y": -0.51,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.45,
+        "y": -0.51,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 3
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 6,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "but_2_yne",
+    "name": "But-2-yne (Dimetylaxetilen)",
+    "iupac": "But-2-yne",
+    "formula": "C4H6",
+    "condensed": "CH3-C≡C-CH3",
+    "group": "2. Hydrocarbon không no (Alkene, Alkyne, Diene)",
+    "groupId": "alkene_alkyne",
+    "molarMass": 54.09,
+    "geometry": "Đường thẳng (Linear, góc C≡C-C = 180°)",
+    "hybridization": "sp (1 liên kết σ và 2 liên kết π vuông góc)",
+    "state": "Chất lỏng dễ bay hơi, không có H linh động ở liên kết ba",
+    "boilingPoint": "27.0 °C",
+    "meltingPoint": "-32.3 °C",
+    "solubility": "Tan trong ete",
+    "reactions": "KHÔNG phản ứng với dung dịch AgNO₃/NH₃ (do không có liên kết ba đầu mạch).",
+    "applications": "Tổng hợp hữu cơ chọn lọc hóa lập thể.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.6,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.6,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -2.06,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -2.45,
+        "y": 1.02,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.45,
+        "y": -0.51,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.45,
+        "y": -0.51,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "C",
+        "x": 2.06,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": 2.45,
+        "y": 1.02,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.45,
+        "y": -0.51,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.45,
+        "y": -0.51,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 3
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 9,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "benzene",
+    "name": "Benzene (Benzen)",
+    "iupac": "Benzene",
+    "formula": "C6H6",
+    "condensed": "C6H6",
+    "group": "3. Hydrocarbon thơm (Arene)",
+    "groupId": "arene",
+    "molarMass": 78.11,
+    "geometry": "Vòng thơm 6 cạnh phẳng đều (Planar hexagon, góc C-C-C = 120°)",
+    "hybridization": "sp² (Hệ liên kết π liên hợp giải tỏa toàn vòng thơm)",
+    "state": "Chất lỏng không màu, mùi thơm đặc trưng, nhẹ hơn nước",
+    "boilingPoint": "80.1 °C",
+    "meltingPoint": "5.5 °C",
+    "solubility": "Không tan trong nước, tan tốt trong ete, cồn, dầu mỡ",
+    "reactions": "1) Phản ứng thế Brom: C₆H₆ + Br₂ →(FeBr₃, t°) C₆H₅Br + HBr\n2) Phản ứng Nitro hóa: C₆H₆ + HNO₃(đặc) →(H₂SO₄ đặc) C₆H₅NO₂ + H₂O\n3) Cộng Cl₂ chiếu sáng: C₆H₆ + 3Cl₂ →(as) C₆H₆Cl₆ (Thuốc trừ sâu 666)",
+    "applications": "Dung môi công nghiệp chủ chốt; nguyên liệu sản xuất styrene, phenol, anilin, phẩm nhuộm và nylon.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "H",
+        "x": 2.48,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.48,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 2
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 11,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "methylbenzene",
+    "name": "Toluene (Toluen / Metylbenzen)",
+    "iupac": "Methylbenzene",
+    "formula": "C7H8",
+    "condensed": "C6H5-CH3",
+    "group": "3. Hydrocarbon thơm (Arene)",
+    "groupId": "arene",
+    "molarMass": 92.14,
+    "geometry": "Vòng thơm 6 cạnh phẳng đều (Planar hexagon, góc C-C-C = 120°)",
+    "hybridization": "sp² (Hệ liên kết π liên hợp giải tỏa toàn vòng thơm)",
+    "state": "Chất lỏng không màu, không tan trong nước, mùi thơm nhẹ",
+    "boilingPoint": "110.6 °C",
+    "meltingPoint": "-95.0 °C",
+    "solubility": "Không tan trong nước, tan trong xăng dầu",
+    "reactions": "1) Thế Brom vào nhân ưu tiên ortho/para (xúc tác Fe) hoặc vào nhánh CH₃ (chiếu sáng)\n2) Oxy hóa nhánh bởi thuốc tím: C₆H₅CH₃ + 2KMnO₄ →(t°) C₆H₅COOK + 2MnO₂↓ + KOH + H₂O (Làm mất màu thuốc tím khi đun nóng)\n3) Trinitro hóa tạo thuốc nổ TNT: C₆H₅CH₃ + 3HNO₃ → C₆H₂(NO₂)₃CH₃ (TNT) + 3H₂O",
+    "applications": "Sản xuất thuốc nổ TNT, dung môi pha sơn, keo dán, mực in.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 2.91,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": 4.0,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.91,
+        "y": 0.0,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.91,
+        "y": 0.0,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.48,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 2
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 13,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 14,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "ethenylbenzene",
+    "name": "Styrene (Stiren / Vinylbenzen)",
+    "iupac": "Ethenylbenzene",
+    "formula": "C8H8",
+    "condensed": "C6H5-CH=CH2",
+    "group": "3. Hydrocarbon thơm (Arene)",
+    "groupId": "arene",
+    "molarMass": 104.15,
+    "geometry": "Vòng thơm 6 cạnh phẳng đều (Planar hexagon, góc C-C-C = 120°)",
+    "hybridization": "sp² (Hệ liên kết π liên hợp giải tỏa toàn vòng thơm)",
+    "state": "Chất lỏng nhờn không màu, dễ bay hơi, dễ tự trùng hợp",
+    "boilingPoint": "145.2 °C",
+    "meltingPoint": "-30.6 °C",
+    "solubility": "Không tan trong nước",
+    "reactions": "1) Trùng hợp tạo nhựa Polystyrene (PS): n C₆H₅-CH=CH₂ → (-CH(C₆H₅)-CH₂-)n\n2) Đồng trùng hợp với butadien tạo cao su Buna-S\n3) Làm mất màu nước brom ở điều kiện thường (tính chất nhánh vinyl)",
+    "applications": "Sản xuất nhựa PS, xốp cách nhiệt EPS, hộp cơm xốp, vỏ thiết bị điện tử.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 2.87,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "H",
+        "x": 3.459,
+        "y": 0.917,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "C",
+        "x": 4.15,
+        "y": -0.396,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 4.909,
+        "y": 0.386,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 4.909,
+        "y": -1.178,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.48,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 2
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 8,
+        "order": 2
+      },
+      {
+        "a1": 8,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 8,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 13,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 14,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 15,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "chlorobenzene",
+    "name": "Chlorobenzene (Clorobenzen)",
+    "iupac": "Chlorobenzene",
+    "formula": "C6H5Cl",
+    "condensed": "C6H5Cl",
+    "group": "4. Dẫn xuất Halogen",
+    "groupId": "halogen",
+    "molarMass": 112.56,
+    "geometry": "Vòng thơm 6 cạnh phẳng đều (Planar hexagon, góc C-C-C = 120°)",
+    "hybridization": "sp² (Hệ liên kết π liên hợp giải tỏa toàn vòng thơm)",
+    "state": "Chất lỏng không màu, mùi hạnh nhân",
+    "boilingPoint": "131.6 °C",
+    "meltingPoint": "-45.6 °C",
+    "solubility": "Không tan trong nước",
+    "reactions": "Thủy phân ở điều kiện cực khắc nghiệt (300°C, 200 atm): C₆H₅Cl + 2NaOH → C₆H₅ONa + NaCl + H₂O",
+    "applications": "Dung môi công nghiệp, sản xuất thuốc trừ sâu DDT, thuốc nhuộm.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "Cl",
+        "x": 3.12,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 1,
+        "ox": -1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.48,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 2
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 11,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "phenol",
+    "name": "Phenol (Axit phenic)",
+    "iupac": "Phenol",
+    "formula": "C6H6O",
+    "condensed": "C6H5-OH",
+    "group": "5. Alcohol & Phenol",
+    "groupId": "alcohol_phenol",
+    "molarMass": 94.11,
+    "geometry": "Vòng thơm 6 cạnh phẳng đều (Planar hexagon, góc C-C-C = 120°)",
+    "hybridization": "sp² (Hệ liên kết π liên hợp giải tỏa toàn vòng thơm)",
+    "state": "Chất rắn kết tinh hình kim không màu, để lâu trong không khí hóa hồng do bị oxy hóa nhẹ",
+    "boilingPoint": "181.7 °C",
+    "meltingPoint": "40.5 °C",
+    "solubility": "Ít tan trong nước lạnh, tan vô hạn trong nước ở >66°C",
+    "reactions": "1) Tính axit yếu (làm đổi màu phenolphtalein, tác dụng NaOH nhưng không tác dụng NaHCO₃): C₆H₅OH + NaOH → C₆H₅ONa + H₂O\n2) Tác dụng nước Brom tạo kết tủa trắng 2,4,6-tribromophenol (dùng nhận biết phenol):\nC₆H₅OH + 3Br₂ → C₆H₂Br₃OH↓ + 3HBr\n3) Tạo nhựa novolac/bakelite với fomanđehit",
+    "applications": "Sản xuất nhựa Bakelite (nhựa chịu nhiệt vỏ ổ điện), thuốc diệt khuẩn, phẩm nhuộm, thuốc nổ axit picric.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "O",
+        "x": 2.76,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 3.429,
+        "y": 0.689,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.48,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 2
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 12,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "benzaldehyde",
+    "name": "Benzaldehyde (Benzanđehit)",
+    "iupac": "Benzaldehyde",
+    "formula": "C7H6O",
+    "condensed": "C6H5-CHO",
+    "group": "6. Aldehyde & Ketone",
+    "groupId": "carbonyl",
+    "molarMass": 106.12,
+    "geometry": "Vòng thơm 6 cạnh phẳng đều (Planar hexagon, góc C-C-C = 120°)",
+    "hybridization": "sp² (Hệ liên kết π liên hợp giải tỏa toàn vòng thơm)",
+    "state": "Chất lỏng không màu mùi quả hạnh nhân đặc trưng",
+    "boilingPoint": "178.1 °C",
+    "meltingPoint": "-26.0 °C",
+    "solubility": "Tan ít trong nước",
+    "reactions": "Tráng bạc: C₆H₅CHO + 2[Ag(NH₃)₂]OH → C₆H₅COONH₄ + 2Ag↓ + 3NH₃ + H₂O",
+    "applications": "Hương liệu thực phẩm hương hạnh nhân, tổng hợp phẩm màu malachite green.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 2.88,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 1
+      },
+      {
+        "element": "O",
+        "x": 3.887,
+        "y": 0.689,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 3.78,
+        "y": -0.615,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.48,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 2
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 7,
+        "order": 2
+      },
+      {
+        "a1": 6,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 13,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "benzoic_acid",
+    "name": "Benzoic Acid (Axit benzoic)",
+    "iupac": "Benzoic acid",
+    "formula": "C7H6O2",
+    "condensed": "C6H5-COOH",
+    "group": "7. Carboxylic Acid",
+    "groupId": "carboxylic_acid",
+    "molarMass": 122.12,
+    "geometry": "Vòng thơm 6 cạnh phẳng đều (Planar hexagon, góc C-C-C = 120°)",
+    "hybridization": "sp² (Hệ liên kết π liên hợp giải tỏa toàn vòng thơm)",
+    "state": "Chất rắn tinh thể màu trắng hình kim, có khả năng thăng hoa khi đun nhẹ",
+    "boilingPoint": "249.2 °C",
+    "meltingPoint": "122.4 °C",
+    "solubility": "Ít tan trong nước lạnh, tan nhiều trong nước sôi và cồn",
+    "reactions": "Phản ứng este hóa với methanol: C₆H₅COOH + CH₃OH ⇌ C₆H₅COOCH₃ + H₂O (metyl benzoat mùi hoa nhài)",
+    "applications": "Chất bảo quản thực phẩm chống nấm mốc (E210/E211 Natri benzoat trong nước giải khát, tương ớt).",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 2.88,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 3
+      },
+      {
+        "element": "O",
+        "x": 3.887,
+        "y": 0.689,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "O",
+        "x": 4.002,
+        "y": -0.768,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 4.962,
+        "y": -0.768,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.48,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 2
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 7,
+        "order": 2
+      },
+      {
+        "a1": 6,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 8,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 13,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 14,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "benzenamine",
+    "name": "Aniline (Anilin / Phenylamin)",
+    "iupac": "Benzenamine",
+    "formula": "C6H7N",
+    "condensed": "C6H5-NH2",
+    "group": "9. Amine & Amino Acid",
+    "groupId": "amine_amino_acid",
+    "molarMass": 93.13,
+    "geometry": "Vòng thơm 6 cạnh phẳng đều (Planar hexagon, góc C-C-C = 120°)",
+    "hybridization": "sp² (Hệ liên kết π liên hợp giải tỏa toàn vòng thơm)",
+    "state": "Chất lỏng dầu không màu, độc, mùi tanh hôi của cá chết, để lâu trong không khí bị oxy hóa hóa nâu đen",
+    "boilingPoint": "184.1 °C",
+    "meltingPoint": "-6.3 °C",
+    "solubility": "Không tan trong nước, nặng hơn nước lắng xuống đáy",
+    "reactions": "1) Tính bazơ rất yếu (KHÔNG làm đổi màu quỳ tím): C₆H₅NH₂ + HCl → C₆H₅NH₃Cl (Phenylamoni clorua tan trong nước)\n2) Tác dụng nước Brom tạo kết tủa trắng 2,4,6-tribromoaniline (nhận biết anilin):\nC₆H₅NH₂ + 3Br₂ → C₆H₂Br₃NH₂↓ + 3HBr",
+    "applications": "Nguyên liệu trung tâm sản xuất thuốc nhuộm Azo, hóa chất cao su, dược phẩm sulfamid, nhựa polyurethane.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": 1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.7,
+        "y": -1.212,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "N",
+        "x": 2.8,
+        "y": 0.0,
+        "z": 0.15,
+        "hybrid": "sp³",
+        "valency": 3,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": 3.45,
+        "y": 0.548,
+        "z": -0.3,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 3.45,
+        "y": -0.548,
+        "z": -0.3,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": 2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.48,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.24,
+        "y": -2.148,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 2
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 13,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "chloroform",
+    "name": "Chloroform (Clorofom / Triclorometan)",
+    "iupac": "Trichloromethane",
+    "formula": "CHCl3",
+    "condensed": "CHCl3",
+    "group": "4. Dẫn xuất Halogen",
+    "groupId": "halogen",
+    "molarMass": 119.38,
+    "geometry": "Tứ diện bất đối xứng (Cực tính mạnh, moment lưỡng cực μ = 1.04 D)",
+    "hybridization": "sp³",
+    "state": "Chất lỏng không màu, nặng hơn nước (d = 1.49 g/cm³), mùi ngọt đặc trưng, gây mê",
+    "boilingPoint": "61.2 °C",
+    "meltingPoint": "-63.5 °C",
+    "solubility": "Không tan trong nước, tan vô hạn trong cồn, ete, dầu",
+    "reactions": "Bị oxy hóa chậm dưới ánh sáng tạo khí độc Phosgene (COCl₂): 2CHCl₃ + O₂ →(as) 2COCl₂ + 2HCl",
+    "applications": "Dung môi hòa tan lipid, chiết xuất DNA trong sinh học phân tử; từng làm thuốc mê thời kỳ đầu (nay cấm do độc với gan và tim).",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.28,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": 2
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.36,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "Cl",
+        "x": 1.45,
+        "y": 0.0,
+        "z": -0.45,
+        "hybrid": "sp³",
+        "valency": 1,
+        "ox": -1
+      },
+      {
+        "element": "Cl",
+        "x": -0.73,
+        "y": 1.26,
+        "z": -0.45,
+        "hybrid": "sp³",
+        "valency": 1,
+        "ox": -1
+      },
+      {
+        "element": "Cl",
+        "x": -0.73,
+        "y": -1.26,
+        "z": -0.45,
+        "hybrid": "sp³",
+        "valency": 1,
+        "ox": -1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "carbon_tetrachloride",
+    "name": "Carbon Tetrachloride (Tetraclorometan)",
+    "iupac": "Tetrachloromethane",
+    "formula": "CCl4",
+    "condensed": "CCl4",
+    "group": "4. Dẫn xuất Halogen",
+    "groupId": "halogen",
+    "molarMass": 153.82,
+    "geometry": "Tứ diện đều đối xứng hoàn hảo (Không phân cực, moment lưỡng cực μ = 0)",
+    "hybridization": "sp³",
+    "state": "Chất lỏng nặng (d = 1.59 g/cm³), không cháy",
+    "boilingPoint": "76.7 °C",
+    "meltingPoint": "-22.9 °C",
+    "solubility": "Không tan trong nước, hòa tan cực tốt dầu mỡ, lưu huỳnh, iot",
+    "reactions": "Bền với axit và chất oxy hóa mạnh, không cháy",
+    "applications": "Dung môi tẩy rửa dầu mỡ công nghiệp, chất dập lửa bình cứu hỏa (trước đây).",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": 4
+      },
+      {
+        "element": "Cl",
+        "x": 1.02,
+        "y": 1.02,
+        "z": 1.02,
+        "hybrid": "sp³",
+        "valency": 1,
+        "ox": -1
+      },
+      {
+        "element": "Cl",
+        "x": -1.02,
+        "y": -1.02,
+        "z": 1.02,
+        "hybrid": "sp³",
+        "valency": 1,
+        "ox": -1
+      },
+      {
+        "element": "Cl",
+        "x": -1.02,
+        "y": 1.02,
+        "z": -1.02,
+        "hybrid": "sp³",
+        "valency": 1,
+        "ox": -1
+      },
+      {
+        "element": "Cl",
+        "x": 1.02,
+        "y": -1.02,
+        "z": -1.02,
+        "hybrid": "sp³",
+        "valency": 1,
+        "ox": -1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "vinyl_chloride",
+    "name": "Vinyl Chloride (Clorovinyl)",
+    "iupac": "Chloroethene",
+    "formula": "C2H3Cl",
+    "condensed": "CH2=CH-Cl",
+    "group": "4. Dẫn xuất Halogen",
+    "groupId": "halogen",
+    "molarMass": 62.5,
+    "geometry": "Phẳng tam giác sp²",
+    "hybridization": "sp²",
+    "state": "Khí không màu, mùi ngọt, độc hại và gây ung thư",
+    "boilingPoint": "-13.4 °C",
+    "meltingPoint": "-153.8 °C",
+    "solubility": "Kém tan trong nước",
+    "reactions": "Trùng hợp tạo nhựa Polyvinyl chloride (PVC): n CH₂=CH-Cl → (-CH₂-CHCl-)n",
+    "applications": "Sản xuất ống nước PVC, màng nhựa dẻo, áo mưa, vật liệu cách điện cáp điện.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.72,
+        "y": -0.22,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 0.52,
+        "y": 0.22,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "Cl",
+        "x": 1.85,
+        "y": -0.85,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 1,
+        "ox": -1
+      },
+      {
+        "element": "H",
+        "x": -1.55,
+        "y": 0.46,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.88,
+        "y": -1.28,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.68,
+        "y": 1.29,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 5,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "methanol",
+    "name": "Methanol (Cồn gỗ / Rượu metylic)",
+    "iupac": "Methanol",
+    "formula": "CH4O",
+    "condensed": "CH3-OH",
+    "group": "5. Alcohol & Phenol",
+    "groupId": "alcohol_phenol",
+    "molarMass": 32.04,
+    "geometry": "Tứ diện sp³ tại C kết hợp góc gấp khúc 104.5° tại nguyên tử O",
+    "hybridization": "sp³ (tại C và O)",
+    "state": "Chất lỏng không màu, mùi tương tự cồn ethanol nhưng cực kỳ ĐỘC (gây mù lòa vĩnh viễn và tử vong nếu uống nhầm)",
+    "boilingPoint": "64.7 °C",
+    "meltingPoint": "-97.6 °C",
+    "solubility": "Tan vô hạn trong nước do tạo liên kết hydro liên phân tử mạnh",
+    "reactions": "1) Tác dụng với kim loại kiềm giải phóng H₂: 2CH₃OH + 2Na → 2CH₃ONa + H₂↑\n2) Oxy hóa không hoàn toàn bởi CuO nung nóng tạo fomanđehit:\nCH₃OH + CuO →(t°) HCHO + Cu↓ + H₂O",
+    "applications": "Sản xuất formaldehyde (formalin), axit axetic, este metyl fomat, nhiên liệu sinh học.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.65,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "O",
+        "x": 0.72,
+        "y": 0.18,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 1.15,
+        "y": -0.68,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.02,
+        "y": 1.02,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.02,
+        "y": -0.51,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.02,
+        "y": -0.51,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 5,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "ethanol",
+    "name": "Ethanol (Rượu etylic / Cồn y tế)",
+    "iupac": "Ethanol",
+    "formula": "C2H6O",
+    "condensed": "C2H5-OH",
+    "group": "5. Alcohol & Phenol",
+    "groupId": "alcohol_phenol",
+    "molarMass": 46.07,
+    "geometry": "Mạch C-C-O gấp khúc liên kết hydro mạnh",
+    "hybridization": "sp³",
+    "state": "Chất lỏng không màu, mùi thơm dễ chịu, vị cay nồng",
+    "boilingPoint": "78.37 °C",
+    "meltingPoint": "-114.1 °C",
+    "solubility": "Tan vô hạn trong nước",
+    "reactions": "1) Tác dụng Na: 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑\n2) Phản ứng Este hóa với axit axetic: C₂H₅OH + CH₃COOH ⇌(H₂SO₄ đ, t°) CH₃COOC₂H₅ + H₂O\n3) Tách nước ở 170°C tạo Ethylene: C₂H₅OH →(H₂SO₄ đ, 170°C) C₂H₄ + H₂O\n4) Lên men giấm: C₂H₅OH + O₂ →(men giấm) CH₃COOH + H₂O",
+    "applications": "Cồn sát trùng y tế 70°, đồ uống có cồn, nhiên liệu sinh học E5/E10, dung môi dược phẩm và mỹ phẩm.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -1.25,
+        "y": -0.38,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.45,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "O",
+        "x": 1.15,
+        "y": -0.38,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 1.95,
+        "y": 0.12,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.12,
+        "y": 0.28,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.28,
+        "y": -1.02,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.28,
+        "y": -1.02,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.02,
+        "y": 1.09,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.02,
+        "y": 1.09,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 8,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "ethylene_glycol",
+    "name": "Ethylene Glycol (Etan-1,2-điol)",
+    "iupac": "Ethane-1,2-diol",
+    "formula": "C2H6O2",
+    "condensed": "HO-CH2-CH2-OH",
+    "group": "5. Alcohol & Phenol",
+    "groupId": "alcohol_phenol",
+    "molarMass": 62.07,
+    "geometry": "Ancol 2 chức liền kề (diol kề)",
+    "hybridization": "sp³",
+    "state": "Chất lỏng sánh không màu, vị ngọt, có độc",
+    "boilingPoint": "197.3 °C",
+    "meltingPoint": "-12.9 °C",
+    "solubility": "Tan vô hạn trong nước",
+    "reactions": "Tác dụng với Cu(OH)₂ tạo dung dịch phức đồng màu XANH LAM THẪM (phản ứng đặc trưng nhận biết polyancol có từ 2 nhóm -OH liền kề trở lên):\n2C₂H₄(OH)₂ + Cu(OH)₂ → [C₂H₄(OH)O]₂Cu + 2H₂O",
+    "applications": "Chất chống đông trong két nước làm mát ô tô (antifreeze), nguyên liệu sản xuất tơ lapsan (PET) và chai nhựa PET.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.76,
+        "y": -0.28,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.76,
+        "y": 0.28,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "O",
+        "x": -1.58,
+        "y": 0.88,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": -2.48,
+        "y": 0.58,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "O",
+        "x": 1.58,
+        "y": -0.88,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 2.48,
+        "y": -0.58,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.86,
+        "y": -0.88,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.86,
+        "y": -0.88,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.86,
+        "y": 0.88,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.86,
+        "y": 0.88,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 9,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "glycerol",
+    "name": "Glycerol (Glixerol / Propan-1,2,3-triol)",
+    "iupac": "Propane-1,2,3-triol",
+    "formula": "C3H8O3",
+    "condensed": "CH2OH-CHOH-CH2OH",
+    "group": "5. Alcohol & Phenol",
+    "groupId": "alcohol_phenol",
+    "molarMass": 92.09,
+    "geometry": "Mạch 3C với 3 nhóm OH gắn liền kề, liên kết hydro nội/ngoại phân tử cực kỳ dày đặc",
+    "hybridization": "sp³",
+    "state": "Chất lỏng sánh như dầu, trong suốt, không màu, vị ngọt đậm, hút ẩm mạnh",
+    "boilingPoint": "290.0 °C",
+    "meltingPoint": "17.8 °C",
+    "solubility": "Tan vô hạn trong nước và cồn",
+    "reactions": "1) Hòa tan Cu(OH)₂ ở nhiệt độ thường tạo phức đồng(II) glixerat màu XANH LAM THẪM ĐẶC TRƯNG:\n2C₃H₅(OH)₃ + Cu(OH)₂ → [C₃H₅(OH)₂O]₂Cu + 2H₂O\n2) Tác dụng HNO₃(đặc)/H₂SO₄(đặc) tạo Nitroglycerin (thuốc nổ nhạy va đập và thuốc trợ tim dãn mạch vành):\nC₃H₅(OH)₃ + 3HNO₃ → C₃H₅(ONO₂)₃ + 3H₂O",
+    "applications": "Mỹ phẩm dưỡng ẩm da, chất giữ ẩm kem đánh răng, chất làm mềm bánh kẹo, sản xuất thuốc nổ dynamite và dược phẩm tim mạch.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.45,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": 0
+      },
+      {
+        "element": "C",
+        "x": -1.26,
+        "y": -0.42,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 1.26,
+        "y": -0.42,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "O",
+        "x": 0.0,
+        "y": 1.82,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 0.85,
+        "y": 2.18,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "O",
+        "x": -2.45,
+        "y": 0.38,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": -3.22,
+        "y": -0.15,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "O",
+        "x": 2.45,
+        "y": 0.38,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 3.22,
+        "y": -0.15,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.0,
+        "y": 0.12,
+        "z": 1.05,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.28,
+        "y": -1.06,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.28,
+        "y": -1.06,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.28,
+        "y": -1.06,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.28,
+        "y": -1.06,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 7,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 13,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "formaldehyde",
+    "name": "Formaldehyde (Fomanđehit / Metanal)",
+    "iupac": "Methanal",
+    "formula": "CH2O",
+    "condensed": "HCHO",
+    "group": "6. Aldehyde & Ketone",
+    "groupId": "carbonyl",
+    "molarMass": 30.03,
+    "geometry": "Mặt phẳng tam giác (Planar trigonal quanh nhóm C=O, góc ~120°)",
+    "hybridization": "sp² tại C",
+    "state": "Khí không màu, mùi hắc cay xộc vào mắt và niêm mạc mũi",
+    "boilingPoint": "-19.0 °C",
+    "meltingPoint": "-92.0 °C",
+    "solubility": "Tan rất tốt trong nước (dung dịch 37-40% gọi là Formalin hay Focmon)",
+    "reactions": "1) Phản ứng tráng bạc tỉ lệ đặc biệt 1:4 Ag (do cấu trúc chứa 2 nhóm H tương đương 2 chức andehit):\nHCHO + 4[Ag(NH₃)₂]OH → (NH₄)₂CO₃ + 4Ag↓ + 6NH₃ + 2H₂O\n2) Tác dụng Cu(OH)₂ đun nóng tạo kết tủa đỏ gạch Cu₂O:\nHCHO + 4Cu(OH)₂ + 2NaOH → Na₂CO₃ + 2Cu₂O↓(đỏ gạch) + 6H₂O",
+    "applications": "Dung dịch formalin ngâm xác tiêu bản giải phẫu động vật; sản xuất keo dán gỗ dán công nghiệp UF/PF, chất khử trùng diệt nấm.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 0
+      },
+      {
+        "element": "O",
+        "x": 0.0,
+        "y": 1.22,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": -0.94,
+        "y": -0.58,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.94,
+        "y": -0.58,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "acetaldehyde",
+    "name": "Acetaldehyde (Axetanđehit / Etanal)",
+    "iupac": "Ethanal",
+    "formula": "C2H4O",
+    "condensed": "CH3-CHO",
+    "group": "6. Aldehyde & Ketone",
+    "groupId": "carbonyl",
+    "molarMass": 44.05,
+    "geometry": "Nhóm -CHO phẳng sp² liên kết nhóm metyl sp³",
+    "hybridization": "sp² và sp³",
+    "state": "Chất lỏng dễ bay hơi, không màu, mùi hắc sốc nồng (chất chuyển hóa trung gian gây say rượu/nhức đầu trong cơ thể)",
+    "boilingPoint": "20.2 °C",
+    "meltingPoint": "-123.5 °C",
+    "solubility": "Tan vô hạn trong nước",
+    "reactions": "1) Phản ứng tráng bạc tạo gương sáng bóng tỉ lệ 1:2 Ag:\nCH₃CHO + 2[Ag(NH₃)₂]OH → CH₃COONH₄ + 2Ag↓ + 3NH₃ + H₂O\n2) Khử thành ethanol bởi H₂/Ni:\nCH₃CHO + H₂ →(Ni, t°) CH₃CH₂OH",
+    "applications": "Nguyên liệu tổng hợp axit axetic, este etyl axetat, pyridine, pentaerythritol.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.75,
+        "y": -0.38,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": 0.55,
+        "y": 0.35,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 1
+      },
+      {
+        "element": "O",
+        "x": 0.65,
+        "y": 1.55,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 1.45,
+        "y": -0.3,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.58,
+        "y": 0.32,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.8,
+        "y": -1.02,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.8,
+        "y": -1.02,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "acetone",
+    "name": "Acetone (Axeton / Propan-2-on)",
+    "iupac": "Propan-2-one",
+    "formula": "C3H6O",
+    "condensed": "CH3-CO-CH3",
+    "group": "6. Aldehyde & Ketone",
+    "groupId": "carbonyl",
+    "molarMass": 58.08,
+    "geometry": "Nhóm C=O trung tâm phẳng sp² nối 2 nhóm metyl sp³",
+    "hybridization": "sp² và sp³",
+    "state": "Chất lỏng trong suốt không màu, bay hơi cực nhanh, mùi thơm mát dịu, dễ cháy",
+    "boilingPoint": "56.05 °C",
+    "meltingPoint": "-94.7 °C",
+    "solubility": "Tan vô hạn trong nước và hầu hết dung môi hữu cơ",
+    "reactions": "1) KHÔNG phản ứng tráng bạc và không làm mất màu nước Brom (khác với anđehit).\n2) Phản ứng Iodoform tạo kết tủa vàng CHI₃ đặc trưng của nhóm CH₃-C=O:\nCH₃COCH₃ + 3I₂ + 4NaOH → CHI₃↓(vàng) + CH₃COONa + 3NaI + 3H₂O",
+    "applications": "Dung môi rửa móng tay, pha sơn bóng, dung môi trong phòng thí nghiệm; nguyên liệu tổng hợp nhựa plexiglas (thủy tinh hữu cơ PMMA).",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.18,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 2
+      },
+      {
+        "element": "O",
+        "x": 0.0,
+        "y": 1.4,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": -1.28,
+        "y": -0.65,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": 1.28,
+        "y": -0.65,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -2.15,
+        "y": -0.01,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.3,
+        "y": -1.3,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.3,
+        "y": -1.3,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.15,
+        "y": -0.01,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.3,
+        "y": -1.3,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.3,
+        "y": -1.3,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 9,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "formic_acid",
+    "name": "Formic Acid (Axit fomic / Axit metanoic)",
+    "iupac": "Methanoic acid",
+    "formula": "CH2O2",
+    "condensed": "H-COOH",
+    "group": "7. Carboxylic Acid",
+    "groupId": "carboxylic_acid",
+    "molarMass": 46.03,
+    "geometry": "Mặt phẳng liên hợp O=C-O-H",
+    "hybridization": "sp² tại C",
+    "state": "Chất lỏng không màu, mùi nồng chua gắt, có trong nọc kiến lửa và ong",
+    "boilingPoint": "100.8 °C",
+    "meltingPoint": "8.4 °C",
+    "solubility": "Tan vô hạn trong nước",
+    "reactions": "VỪA có tính axit VỪA có tính anđehit (do chứa nhóm H-C=O):\n1) Làm quỳ tím hóa đỏ\n2) Tham gia phản ứng tráng bạc tráng gương:\nHCOOH + 2[Ag(NH₃)₂]OH → (NH₄)₂CO₃ + 2Ag↓ + 2NH₃ + H₂O",
+    "applications": "Công nghiệp thuộc da, nhuộm dệt, chất làm đông tụ mủ cao su tự nhiên.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.32,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 2
+      },
+      {
+        "element": "O",
+        "x": 1.05,
+        "y": 0.88,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "O",
+        "x": -1.15,
+        "y": 0.88,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": -1.88,
+        "y": 0.25,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.05,
+        "y": -0.78,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "acetic_acid",
+    "name": "Acetic Acid (Axit axetic / Giấm ăn)",
+    "iupac": "Ethanoic acid",
+    "formula": "C2H4O2",
+    "condensed": "CH3-COOH",
+    "group": "7. Carboxylic Acid",
+    "groupId": "carboxylic_acid",
+    "molarMass": 60.05,
+    "geometry": "Dạng đime hóa liên kết hydro đôi bền vững giữa 2 phân tử",
+    "hybridization": "sp² và sp³",
+    "state": "Chất lỏng không màu, mùi chua giấm đặc trưng; đóng băng ở 16.6°C tạo tinh thể giống băng tuyết (axit axetic băng)",
+    "boilingPoint": "118.1 °C",
+    "meltingPoint": "16.6 °C",
+    "solubility": "Tan vô hạn trong nước",
+    "reactions": "1) Đổi màu quỳ tím sang đỏ, tác dụng kim loại trước H, oxit bazo, bazo, muối cacbonat (giải phóng CO₂):\n2CH₃COOH + CaCO₃ → (CH₃COO)₂Ca + CO₂↑ + H₂O\n2) Este hóa với ancol: CH₃COOH + C₂H₅OH ⇌(H₂SO₄ đ, t°) CH₃COOC₂H₅ + H₂O",
+    "applications": "Giấm ăn (dung dịch 2-5%), sản xuất tơ axetat, este mùi hoa quả, keo dán PVA và dược phẩm aspirin.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -1.25,
+        "y": -0.28,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": 0.08,
+        "y": 0.42,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 3
+      },
+      {
+        "element": "O",
+        "x": 0.22,
+        "y": 1.62,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "O",
+        "x": 1.15,
+        "y": -0.42,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 1.95,
+        "y": 0.12,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.08,
+        "y": 0.42,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.3,
+        "y": -0.92,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.3,
+        "y": -0.92,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 7,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "ethyl_acetate",
+    "name": "Ethyl Acetate (Etyl axetat)",
+    "iupac": "Ethyl ethanoate",
+    "formula": "C4H8O2",
+    "condensed": "CH3-COO-C2H5",
+    "group": "8. Ester & Lipid",
+    "groupId": "ester_lipid",
+    "molarMass": 88.11,
+    "geometry": "Khung este linh động",
+    "hybridization": "sp² và sp³",
+    "state": "Chất lỏng không màu, nhẹ hơn nước, mùi thơm quả lê/táo ngọt mát",
+    "boilingPoint": "77.1 °C",
+    "meltingPoint": "-83.6 °C",
+    "solubility": "Ít tan trong nước, nổi trên mặt nước",
+    "reactions": "1) Thủy phân trong môi trường axit (thuận nghịch):\nCH₃COOC₂H₅ + H₂O ⇌(H⁺, t°) CH₃COOH + C₂H₅OH\n2) Thủy phân trong môi trường kiềm (phản ứng xà phòng hóa 1 chiều):\nCH₃COOC₂H₅ + NaOH →(t°) CH₃COONa + C₂H₅OH",
+    "applications": "Dung môi chiết xuất tinh dầu, pha sơn móng tay, keo dán mô hình, hương liệu thực phẩm kẹo hoa quả.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -2.25,
+        "y": -0.42,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": -0.85,
+        "y": 0.22,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 3
+      },
+      {
+        "element": "O",
+        "x": -0.72,
+        "y": 1.42,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "O",
+        "x": 0.18,
+        "y": -0.65,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 1.55,
+        "y": -0.15,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 2.52,
+        "y": -1.3,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -3.02,
+        "y": 0.35,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.35,
+        "y": -1.05,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.35,
+        "y": -1.05,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.65,
+        "y": 0.48,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.65,
+        "y": 0.48,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 3.55,
+        "y": -0.92,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.42,
+        "y": -1.92,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.42,
+        "y": -1.92,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 13,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "methylamine",
+    "name": "Methylamine (Metylamin)",
+    "iupac": "Methanamine",
+    "formula": "CH5N",
+    "condensed": "CH3-NH2",
+    "group": "9. Amine & Amino Acid",
+    "groupId": "amine_amino_acid",
+    "molarMass": 31.06,
+    "geometry": "Hình chóp tam giác tại N (góc ~107° do đôi e tự do)",
+    "hybridization": "sp³ tại N và C",
+    "state": "Khí không màu, mùi khai nồng khó chịu giống amoniac pha cá ươn",
+    "boilingPoint": "-6.3 °C",
+    "meltingPoint": "-93.5 °C",
+    "solubility": "Tan rất nhiều trong nước, dung dịch có tính bazơ mạnh hơn NH₃",
+    "reactions": "1) Làm quỳ tím ẩm hóa xanh, phenolphtalein hóa hồng\n2) Tác dụng axit tạo muối: CH₃NH₂ + HCl → CH₃NH₃Cl (Metylamoni clorua)",
+    "applications": "Tổng hợp thuốc bảo vệ thực vật, dược phẩm lá bài, chất hoạt động bề mặt.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -2
+      },
+      {
+        "element": "N",
+        "x": 0.72,
+        "y": 0.12,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 3,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": 1.12,
+        "y": -0.42,
+        "z": 0.78,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.12,
+        "y": -0.42,
+        "z": -0.78,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.08,
+        "y": 1.02,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.08,
+        "y": -0.51,
+        "z": 0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.08,
+        "y": -0.51,
+        "z": -0.89,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "glycine",
+    "name": "Glycine (Glyxin / Axit 2-aminoetanoic)",
+    "iupac": "2-Aminoethanoic acid",
+    "formula": "C2H5NO2",
+    "condensed": "H2N-CH2-COOH",
+    "group": "9. Amine & Amino Acid",
+    "groupId": "amine_amino_acid",
+    "molarMass": 75.07,
+    "geometry": "Amino acid đơn giản nhất, tồn tại dạng ion lưỡng cực H₃N⁺-CH₂-COO⁻ trong tinh thể và dung dịch",
+    "hybridization": "sp² và sp³",
+    "state": "Chất rắn kết tinh không màu, vị ngọt thanh, nhiệt độ nóng chảy cao",
+    "boilingPoint": "Phân hủy",
+    "meltingPoint": "233.0 °C",
+    "solubility": "Dễ tan trong nước",
+    "reactions": "1) Tính chất lưỡng tính (tác dụng cả axit và bazo):\n• H₂N-CH₂-COOH + HCl → ClH₃N-CH₂-COOH\n• H₂N-CH₂-COOH + NaOH → H₂N-CH₂-COONa + H₂O\n2) Phản ứng trùng ngưng tạo peptit và tơ nilon-2",
+    "applications": "Đơn vị cấu tạo nên protein cơ thể người; chất điều vị thực phẩm, dược phẩm dinh dưỡng truyền đạm.",
+    "atoms": [
+      {
+        "element": "N",
+        "x": -2.05,
+        "y": -0.32,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 3,
+        "ox": -3
+      },
+      {
+        "element": "C",
+        "x": -0.82,
+        "y": 0.45,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": 0
+      },
+      {
+        "element": "C",
+        "x": 0.48,
+        "y": -0.35,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 3
+      },
+      {
+        "element": "O",
+        "x": 0.52,
+        "y": -1.55,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "O",
+        "x": 1.58,
+        "y": 0.42,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 2.38,
+        "y": -0.15,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.85,
+        "y": 0.28,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.05,
+        "y": -0.92,
+        "z": 0.82,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.85,
+        "y": 1.09,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.85,
+        "y": 1.09,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 2,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 9,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "urea",
+    "name": "Urea (Urê / Cacbamit)",
+    "iupac": "Carbamide",
+    "formula": "CH4N2O",
+    "condensed": "(NH2)2CO",
+    "group": "10. Carbohydrate & Hợp chất sinh học",
+    "groupId": "biomolecules",
+    "molarMass": 60.06,
+    "geometry": "Phẳng liên hợp O=C(NH₂)₂",
+    "hybridization": "sp² tại C",
+    "state": "Chất rắn tinh thể màu trắng, không mùi, vị mặn mát",
+    "boilingPoint": "Phân hủy",
+    "meltingPoint": "133.0 °C",
+    "solubility": "Rất dễ tan trong nước (quá trình tan thu nhiệt làm lạnh dung dịch)",
+    "reactions": "Thủy phân trong đất tạo muối amoni cacbonat cung cấp đạm cho cây trồng:\n(NH₂)₂CO + 2H₂O → (NH₄)₂CO₃",
+    "applications": "Loại phân đạm phổ biến và giàu hàm lượng Nitơ nhất (46% N); nguyên liệu sản xuất nhựa keo UF dán gỗ ép.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.15,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 4
+      },
+      {
+        "element": "O",
+        "x": 0.0,
+        "y": 1.38,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "N",
+        "x": -1.18,
+        "y": -0.62,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 3,
+        "ox": -3
+      },
+      {
+        "element": "N",
+        "x": 1.18,
+        "y": -0.62,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 3,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -2.05,
+        "y": -0.15,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.15,
+        "y": -1.62,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.05,
+        "y": -0.15,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.15,
+        "y": -1.62,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 0,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 3,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 5,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 7,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "aspirin",
+    "name": "Aspirin (Axit axetylsalixylic)",
+    "iupac": "2-Acetyloxybenzoic acid",
+    "formula": "C9H8O4",
+    "condensed": "CH3COO-C6H4-COOH",
+    "group": "10. Carbohydrate & Hợp chất sinh học",
+    "groupId": "biomolecules",
+    "molarMass": 180.16,
+    "geometry": "Vòng benzen gắn nhóm axetoxy ortho với nhóm cacboxyl",
+    "hybridization": "sp² và sp³",
+    "state": "Chất rắn kết tinh trắng hình kim, vị chua nhẹ",
+    "boilingPoint": "140 °C (phân hủy)",
+    "meltingPoint": "135.0 °C",
+    "solubility": "Ít tan trong nước, tan trong cồn và dung dịch kiềm",
+    "reactions": "Thủy phân trong môi trường kiềm (cả nhóm este và nhóm cacboxyl):\nCH₃COO-C₆H₄-COOH + 3NaOH → CH₃COONa + C₆H₄(ONa)COONa + 2H₂O",
+    "applications": "Thuốc giảm đau, hạ sốt, chống viêm không steroid (NSAID), thuốc chống đông máu ức chế kết tập tiểu cầu ngừa đột quỵ.",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 0
+      },
+      {
+        "element": "C",
+        "x": 1.4,
+        "y": 0.0,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 0
+      },
+      {
+        "element": "C",
+        "x": 2.1,
+        "y": 1.21,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 1.4,
+        "y": 2.42,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 2.42,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.7,
+        "y": 1.21,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -0.75,
+        "y": -1.3,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 3
+      },
+      {
+        "element": "O",
+        "x": -0.22,
+        "y": -2.38,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "O",
+        "x": -2.08,
+        "y": -1.15,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": -2.52,
+        "y": -1.98,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "O",
+        "x": 2.15,
+        "y": -1.18,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 3.48,
+        "y": -1.05,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 3
+      },
+      {
+        "element": "O",
+        "x": 4.15,
+        "y": -0.05,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 4.15,
+        "y": -2.38,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": 5.22,
+        "y": -2.25,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 3.88,
+        "y": -2.95,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 3.88,
+        "y": -2.95,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 3.18,
+        "y": 1.21,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 1.95,
+        "y": 3.35,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -0.55,
+        "y": 3.35,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -1.78,
+        "y": 1.21,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 2
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 7,
+        "order": 2
+      },
+      {
+        "a1": 6,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 8,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 10,
+        "a2": 11,
+        "order": 1
+      },
+      {
+        "a1": 11,
+        "a2": 12,
+        "order": 2
+      },
+      {
+        "a1": 11,
+        "a2": 13,
+        "order": 1
+      },
+      {
+        "a1": 13,
+        "a2": 14,
+        "order": 1
+      },
+      {
+        "a1": 13,
+        "a2": 15,
+        "order": 1
+      },
+      {
+        "a1": 13,
+        "a2": 16,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 17,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 18,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 19,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 20,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "paracetamol",
+    "name": "Paracetamol (Panadol / Axetaminophen)",
+    "iupac": "N-(4-hydroxyphenyl)acetamide",
+    "formula": "C8H9NO2",
+    "condensed": "HO-C6H4-NH-COCH3",
+    "group": "10. Carbohydrate & Hợp chất sinh học",
+    "groupId": "biomolecules",
+    "molarMass": 151.16,
+    "geometry": "Vòng benzen para thế nhóm hydroxyl và nhóm axetamit",
+    "hybridization": "sp² và sp³",
+    "state": "Chất rắn kết tinh trắng, vị đắng nhẹ",
+    "boilingPoint": "Phân hủy",
+    "meltingPoint": "169.0 °C",
+    "solubility": "Ít tan trong nước lạnh, tan tốt trong nước nóng và cồn",
+    "reactions": "Tác dụng dung dịch FeCl₃ cho màu tím phức phenol đặc trưng; thủy phân tạo 4-aminophenol.",
+    "applications": "Thuốc giảm đau hạ sốt thiết yếu hàng đầu thế giới (Panadol, Efferalgan, Hapacol).",
+    "atoms": [
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": -1.4,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 0
+      },
+      {
+        "element": "C",
+        "x": 1.21,
+        "y": -0.7,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 1.21,
+        "y": 0.7,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": 0.0,
+        "y": 1.4,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 0
+      },
+      {
+        "element": "C",
+        "x": -1.21,
+        "y": 0.7,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "C",
+        "x": -1.21,
+        "y": -0.7,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": -1
+      },
+      {
+        "element": "O",
+        "x": 0.0,
+        "y": -2.76,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "H",
+        "x": 0.85,
+        "y": -3.2,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "N",
+        "x": 0.0,
+        "y": 2.8,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 3,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": -0.85,
+        "y": 3.32,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "C",
+        "x": 1.22,
+        "y": 3.48,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 4,
+        "ox": 3
+      },
+      {
+        "element": "O",
+        "x": 2.3,
+        "y": 2.92,
+        "z": 0.0,
+        "hybrid": "sp²",
+        "valency": 2,
+        "ox": -2
+      },
+      {
+        "element": "C",
+        "x": 1.15,
+        "y": 5.0,
+        "z": 0.0,
+        "hybrid": "sp³",
+        "valency": 4,
+        "ox": -3
+      },
+      {
+        "element": "H",
+        "x": 2.18,
+        "y": 5.35,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.65,
+        "y": 5.38,
+        "z": 0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 0.65,
+        "y": 5.38,
+        "z": -0.88,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.15,
+        "y": -1.25,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": 2.15,
+        "y": 1.25,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.15,
+        "y": 1.25,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      },
+      {
+        "element": "H",
+        "x": -2.15,
+        "y": -1.25,
+        "z": 0.0,
+        "hybrid": "1s",
+        "valency": 1,
+        "ox": 1
+      }
+    ],
+    "bonds": [
+      {
+        "a1": 0,
+        "a2": 1,
+        "order": 2
+      },
+      {
+        "a1": 1,
+        "a2": 2,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 3,
+        "order": 2
+      },
+      {
+        "a1": 3,
+        "a2": 4,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 5,
+        "order": 2
+      },
+      {
+        "a1": 5,
+        "a2": 0,
+        "order": 1
+      },
+      {
+        "a1": 0,
+        "a2": 6,
+        "order": 1
+      },
+      {
+        "a1": 6,
+        "a2": 7,
+        "order": 1
+      },
+      {
+        "a1": 3,
+        "a2": 8,
+        "order": 1
+      },
+      {
+        "a1": 8,
+        "a2": 9,
+        "order": 1
+      },
+      {
+        "a1": 8,
+        "a2": 10,
+        "order": 1
+      },
+      {
+        "a1": 10,
+        "a2": 11,
+        "order": 2
+      },
+      {
+        "a1": 10,
+        "a2": 12,
+        "order": 1
+      },
+      {
+        "a1": 12,
+        "a2": 13,
+        "order": 1
+      },
+      {
+        "a1": 12,
+        "a2": 14,
+        "order": 1
+      },
+      {
+        "a1": 12,
+        "a2": 15,
+        "order": 1
+      },
+      {
+        "a1": 1,
+        "a2": 16,
+        "order": 1
+      },
+      {
+        "a1": 2,
+        "a2": 17,
+        "order": 1
+      },
+      {
+        "a1": 4,
+        "a2": 18,
+        "order": 1
+      },
+      {
+        "a1": 5,
+        "a2": 19,
+        "order": 1
+      }
+    ]
+  }
+]
