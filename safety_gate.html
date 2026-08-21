@@ -720,7 +720,7 @@
             const player = {
                 x: window.innerWidth / 2, y: window.innerHeight - 100,
                 targetX: window.innerWidth / 2, targetY: window.innerHeight - 100,
-                speed: 6,
+                speed: 4.2,
                 width: 120, height: 300,
                 moving: false,
                 animTime: 0, direction: 1,
@@ -1429,7 +1429,7 @@
               
               function update(deltaTime) {
                   if (player.moving) {
-                      player.animTime += 0.2;
+                      player.animTime += 0.14;
                       let dx = player.targetX - player.x;
                       let dy = player.targetY - player.y;
                       let dist = Math.hypot(dx, dy);
